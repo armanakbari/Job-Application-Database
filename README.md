@@ -16,6 +16,6 @@ Our database schema is designed to efficiently manage various aspects of the job
 
 4. Security: Security measures are integrated into the design, including hashed passwords, ensuring the protection of sensitive user data.
 
-5. Flexibility: The schema allows for a diverse range of job listings, user profiles, and application statuses, accommodating a variety of scenarios within the job application ecosystem.
+5. Flexibility: This schema allows for a diverse range of job listings, user profiles, and application statuses, accommodating a variety of scenarios within the job application ecosystem.
 
 <img src="https://github.com/armanakbari/Job-Application-Database/blob/main/normalized%20ER%20and%20Tables.png">
